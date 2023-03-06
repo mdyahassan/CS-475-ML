@@ -10,4 +10,4 @@ The Regression assignment can be found [here](https://github.com/mdyahassan/CS-4
 The Classification assignment can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/Classification.pdf)
 ## C++ Algorithms From Scratch
 The Logistic Regression Model can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/LinearRegression.cpp)
-The Naive Bayes Model can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/main.cpp0
+The Naive Bayes Model can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/main.cpp)
