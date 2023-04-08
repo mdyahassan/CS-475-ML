@@ -11,3 +11,5 @@ The Classification assignment can be found [here](https://github.com/mdyahassan/
 ## C++ Algorithms From Scratch
 The Logistic Regression Model can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/LinearRegression.cpp)
 The Naive Bayes Model can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/main.cpp)
+## ML with Sklearn
+The python jupyter file can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/ML.ipynb) and the pdf can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/Untitled.pdf)
