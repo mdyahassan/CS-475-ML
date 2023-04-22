@@ -2,7 +2,7 @@
 Machine Learning Assignments and Projects
 ## Overview of ML 
 The document can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/Overview%20%20of%20ML%20.pdf)
-## Assignment 1
+## C++ Data Exploration
 The overview document can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/Overview%20document%20-%20Asignment%201%20.pdf)
 The CPP code cn be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/Assignment1main.cp)
 ## Linear Models
@@ -13,3 +13,5 @@ The Logistic Regression Model can be found [here](https://github.com/mdyahassan/
 The Naive Bayes Model can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/main.cpp)
 ## ML with Sklearn
 The python jupyter file can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/ML.ipynb) and the pdf can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/Untitled.pdf)
+## Image Classification 
+The python jupyter file can be found [here](https://github.com/mdyahassan/CS-475-ML/blob/main/ImageClass.ipynb) 
